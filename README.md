@@ -21,6 +21,6 @@ This suffers from 3 main problems:
 # My Role
 The HR department has hired me as a data science consultant. They want to supplement their exit interviews with a more proactive approach.
 
-They've asked their business intelligence analysts to provide me a dataset of past employees and their status (still employed or already left).
+* They've asked their business intelligence analysts to provide me a dataset of past employees and their status (still employed or already left).
 * My task is to build a classification model using that dataset.
 * Because my solution will be complementary to the existing one, and because there's no precedent, I do not have a quantifiable win condition. I just have to build the best model possible.
